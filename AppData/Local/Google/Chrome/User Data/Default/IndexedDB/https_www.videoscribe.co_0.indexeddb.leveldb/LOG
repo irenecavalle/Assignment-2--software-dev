@@ -1,6 +1,0 @@
-2024/11/04-13:22:55.483 227c Creating DB C:\Users\icava\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.videoscribe.co_0.indexeddb.leveldb since it was missing.
-2024/11/04-13:22:55.489 227c Reusing MANIFEST C:\Users\icava\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.videoscribe.co_0.indexeddb.leveldb/MANIFEST-000001
-2024/11/04-13:33:08.476 3914 Level-0 table #5: started
-2024/11/04-13:33:08.482 3914 Level-0 table #5: 443280 bytes OK
-2024/11/04-13:33:08.485 3914 Delete type=0 #3
-2024/11/04-13:33:08.485 3914 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
